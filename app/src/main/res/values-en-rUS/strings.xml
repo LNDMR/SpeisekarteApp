@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MenuApp</string>
+    <string name="sum">sum</string>
+    <string name="reset">RESET</string>
+    <string name="amount">amount</string>
+    <string name="drink">beverage</string>
+    <string name="menu">menu</string>
+</resources>
