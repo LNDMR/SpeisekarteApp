@@ -4,6 +4,6 @@
     <string name="sum">sum</string>
     <string name="reset">RESET</string>
     <string name="amount">amount</string>
-    <string name="drink">beverage</string>
+    <string name="drink">drinks</string>
     <string name="menu">menu</string>
 </resources>
